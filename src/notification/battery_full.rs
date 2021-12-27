@@ -8,3 +8,4 @@ pub fn battery_full_notification() {
         .show()
         .unwrap();
 }
+
